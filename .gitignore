@@ -28,3 +28,4 @@ fuelpurchase-common.xcworkspace
 
 # Misc
 generated-docs/*.bak
+Podfile.lock
