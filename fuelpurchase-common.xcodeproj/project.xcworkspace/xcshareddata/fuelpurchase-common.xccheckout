@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9759D173-EC21-4427-9143-EC0DDB25F952</string>
+	<key>IDESourceControlProjectName</key>
+	<string>fuelpurchase-common</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5CD9DEA5-C3D7-4C02-ACAD-CA8835C068FD</key>
+		<string>https://bitbucket.org/evanspa/ifuelpurchase-common.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>fuelpurchase-common.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5CD9DEA5-C3D7-4C02-ACAD-CA8835C068FD</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/evanspa/ifuelpurchase-common.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5CD9DEA5-C3D7-4C02-ACAD-CA8835C068FD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5CD9DEA5-C3D7-4C02-ACAD-CA8835C068FD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iFuelPurchase-Common</string>
+		</dict>
+	</array>
+</dict>
+</plist>
