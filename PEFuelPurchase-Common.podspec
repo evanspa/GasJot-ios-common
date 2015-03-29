@@ -11,5 +11,5 @@ Pod::Spec.new do |s|
   s.public_header_files = '**/*.h'
   s.exclude_files = "**/*Tests/*.*"
   s.requires_arc = true
-  s.dependency 'PEHateoas-client', '~> 1.0.1'
+  s.dependency 'PEHateoas-Client', '~> 1.0.1'
 end
