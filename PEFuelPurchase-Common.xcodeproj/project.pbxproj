@@ -29,7 +29,6 @@
 		18B4401B18E34249004EFD22 /* PEFuelPurchase-Common-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "PEFuelPurchase-Common-Prefix.pch"; sourceTree = "<group>"; };
 		18B4402518E34249004EFD22 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		18B4402818E34249004EFD22 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
-		18B4403E18E343EE004EFD22 /* FPTransactionCodes.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FPTransactionCodes.h; sourceTree = "<group>"; };
 		18B4404018E34448004EFD22 /* FPAuthTokenDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FPAuthTokenDelegate.h; sourceTree = "<group>"; };
 		870D710990DB425286A9985C /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE346DD6B643FCCABF512739 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
@@ -82,7 +81,6 @@
 			isa = PBXGroup;
 			children = (
 				18B4403F18E34431004EFD22 /* Auth Token Delegate */,
-				18B4403D18E343CD004EFD22 /* Transaction Logger Codes */,
 				18B4401A18E34249004EFD22 /* Supporting Files */,
 			);
 			name = "PEFuelPurchase-Common";
@@ -95,14 +93,6 @@
 				18B4401B18E34249004EFD22 /* PEFuelPurchase-Common-Prefix.pch */,
 			);
 			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		18B4403D18E343CD004EFD22 /* Transaction Logger Codes */ = {
-			isa = PBXGroup;
-			children = (
-				18B4403E18E343EE004EFD22 /* FPTransactionCodes.h */,
-			);
-			name = "Transaction Logger Codes";
 			sourceTree = "<group>";
 		};
 		18B4403F18E34431004EFD22 /* Auth Token Delegate */ = {

@@ -1,5 +1,5 @@
 source 'https://github.com/CocoaPods/Specs.git'
 
-platform :ios, '8.1'
+platform :ios, '8.3'
 
-pod 'PEHateoas-client', '~> 1.0.1'
+pod 'PEHateoas-Client', '~> 1.0.1'

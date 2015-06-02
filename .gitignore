@@ -24,7 +24,7 @@ oclint_result.html
 
 #CocoaPods
 Pods
-fuelpurchase-common.xcworkspace
+PEFuelPurchase-Common.xcworkspace
 
 # Misc
 generated-docs/*.bak
