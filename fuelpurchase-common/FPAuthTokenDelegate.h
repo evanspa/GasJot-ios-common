@@ -12,7 +12,7 @@
 @protocol FPAuthTokenDelegate <NSObject>
 
 - (void)didReceiveNewAuthToken:(NSString *)authToken
-       forUserGlobalIdentifier:(NSString *)userGlobalIdentifier
+       forUserGlobalIdentifier:(NSString *)userGlobalIdentifier;
 
 - (void)authRequired:(HCAuthentication *)authentication;
 
