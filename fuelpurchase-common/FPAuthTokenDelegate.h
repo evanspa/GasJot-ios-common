@@ -16,6 +16,4 @@
 
 - (void)authRequired:(HCAuthentication *)authentication;
 
-- (void)invalidateTokenForUserGlobalIdentifier:(NSString *)userGlobalIdentifier;
-
 @end
