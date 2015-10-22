@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-@class HCAuthentication
+@class HCAuthentication;
 
 @protocol FPAuthTokenDelegate <NSObject>
 
