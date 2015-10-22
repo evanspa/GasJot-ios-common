@@ -7,7 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <PEHateoas-Client/HCAuthentication.h>
+
+@class HCAuthentication
 
 @protocol FPAuthTokenDelegate <NSObject>
 
